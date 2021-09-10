@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames, movies
 - 🌱 I’m currently learning OS, web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: www.linkedin.com/in/james-yen-8055
 
 <!---
 yenjames/yenjames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
